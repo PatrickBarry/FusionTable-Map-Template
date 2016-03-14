@@ -1,5 +1,7 @@
 # Fusion Table Searchable Map Template, from Derek Eder. 
 
+[See the working demo &raquo;](http://PatrickBarry.github.io/FusionTable-Map-Template/)
+
 ## Copyright and attribution
 
 Copyright (c) 2015 Derek Eder. Released under the MIT License.
